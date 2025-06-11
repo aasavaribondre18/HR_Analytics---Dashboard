@@ -4,7 +4,8 @@
 
 An interactive dashboard that uncovers key insights about employee attrition, satisfaction, demographics, and performance using real-world HR data.
 
-![Dashboard Preview]![HR dashboard]![Uploading HR dashboard.png…]()
+![Dashboard Preview]![Screenshot 2025-06-11 124456](https://github.com/user-attachments/assets/d3fc1bdf-3f94-4490-a8c5-55838de4110a)
+
 
 
 
